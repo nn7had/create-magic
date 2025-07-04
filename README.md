@@ -11,9 +11,7 @@ Bu layihə sevgi hisslərini bənzərsiz bir vizual təqdimatla ifadə etmək ü
 - 💕 Ürək formasında caplet animasiyaları
 - 🌌 Aurora fon və konik gradient animasiyası
 - 💫 "Sehri yarat" düyməsi ilə interaktiv təcrübə
-- 📊 Yüklənmə (progress) barı
 - 🎇 Partlayış və "sparkle" effektləri
-- 🎵 Səssə nəzarət düyməsi (🔊 / 🔇)
 - 📱 Mobil uyğun responsive dizayn
 
 ## 🛠️ Texnologiyalar
