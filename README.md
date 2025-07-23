@@ -1,30 +1,26 @@
-# 💖 Səni Çox Sevirəm | Sehrli Sevgi Mesajı
+# Create magic 💖
 
-Bu layihə sevgi hisslərini bənzərsiz bir vizual təqdimatla ifadə etmək üçün hazırlanmışdır. İstifadəçi bir düymə ilə "Sehri yarat" dedikdə, ekranda aurora effektləri, ürək formasında animasiyalar, parlayan hissəciklər və "Səni çox sevirəm" mesajı canlanır.
+A small webpage that shows a love message with animated hearts and glowing effects.
 
-## 🎬 Demo
+## Features
 
-[🔗 Layihəni Gör](https://sehr-yarat.netlify.app/)
+- Aurora background and heart animations  
+- Simple and clean design  
+- Progress bar with "Magic is being created" message  
 
-## ✨ Xüsusiyyətlər
+## How to Use
 
-- 💕 Ürək formasında caplet animasiyaları
-- 🌌 Aurora fon və konik gradient animasiyası
-- 💫 "Sehri yarat" düyməsi ilə interaktiv təcrübə
-- 🎇 Partlayış və "sparkle" effektləri
-- 📱 Mobil uyğun responsive dizayn
+1. Clone or download the project  
+2. Open `index.html` in your browser  
+3. Click the "Sehri yarat..." button to start the animation  
 
-## 🛠️ Texnologiyalar
+## Technologies
 
-- **HTML5**
-- **CSS3** (animasiyalar, gradientlər, responsive dizayn)
-- **Vanilla JavaScript** (DOM, animasiyalar, hadisə idarəetməsi)
-- **Google Fonts**: Playfair Display & Inter
+- HTML, CSS, JavaScript  
+- Google Fonts  
 
-## 🚀 Necə işlətməli ?
+## License
 
-1. Bu repoyu klonla:
-   ```bash
-   git clone https://github.com/nn7had/create-magic.git
-   cd create-magic
-   
+MIT
+
+---
